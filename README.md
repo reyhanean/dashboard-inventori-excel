@@ -1,6 +1,8 @@
 # Dashboard Inventori Produk (Excel)
 Dashboard inventori untuk 300 produk pakaian, dibuat dengan Excel.
-dashboard_product.png
+
+![Dashboard](dashboard_product.png)
+   
 ## Tujuan
 Memantau kondisi stok, rating, dan nilai inventori per kategori, serta
 mengidentifikasi produk yang perlu direstock.
@@ -24,5 +26,5 @@ material, rating).
 - Nilai inventori sekitar Rp 9,03 miliar.
 
 ## File
-- `dashboard_inventori.xlsx`: file Excel interaktif
-- `dashboard_inventori.pdf`: tampilan dashboard
+- `product_inventori.xlsx`: file Excel interaktif
+- `dashboard_product_inventori.pdf`: tampilan dashboard
